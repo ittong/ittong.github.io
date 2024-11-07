@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siqi Miao (苗思奇)"
-description              : "PhD Student at Gatech"
-repository               : "siqim/siqim.github.io"
+title                    : "Tong Wang (王桐)"
+description              : "Graduate Student at Dlut"
+repository               : "ittong/ittong.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siqi Miao (苗思奇)"
+  name             : "Tong Wang (王桐)"
   avatar           : "images/android-chrome-512x512.png"
   bio              :
-  location         : "Atlanta, GA"
+  location         : "Dalian, Liaoning"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=bVF_CzUAAAAJ&hl=en"
-  email            : "siqi.miao@gatech.edu"
+  # googlescholar    : "https://scholar.google.com/citations?user=bVF_CzUAAAAJ&hl=en"
+  email            : "wt@mail.dlut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "siqim"
+  github           : "ittong"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,13 +51,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : siqi_miao
+  # twitter          : siqi_miao
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/miao-si-qi"
+  # zhihu            : "https://www.zhihu.com/people/miao-si-qi"
 
 
 # Reading Files
