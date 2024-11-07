@@ -41,8 +41,7 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 [Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer](https://ieeexplore.ieee.org/abstract/document/10733987) \\
 <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
 (\*Corresponding Author)\\
-<a href="https://arxiv.org/pdf/2410.20724"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/Graph-COM/SubgraphRAG"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+
 
 </div>
 </div>
