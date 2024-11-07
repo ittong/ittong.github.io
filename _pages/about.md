@@ -110,9 +110,9 @@ Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024
 <!-- - [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987), **Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022** ([codes](https://github.com/Graph-COM/GSAT)) -->
 
 # 🎖 Honors and Awards
-- *2023.03* ICLR’23 Travel Award
-- *2022.07* ICML’22 Travel Award
-- *2022.07* Purdue Graduate Travel Grant
-- *2020.03* Tencent Innovation Award
-- *2020.01* Tencent Outstanding Employee (Top 10%)
+- *2024.10* Outstanding Graduate Student of Dalian University of Technology
+- *2024.03* The Second Prize of Huawei Software Competition
+- *2022.06* Outstanding Graduation Thesis of Yanshan University
+- *2021.06* The Second Prize at the Provincial Level of the Blue Bridge Cup
+- *2021.06* The Second Prize at the Provincial Level in the College Students' Programming Competition
 
