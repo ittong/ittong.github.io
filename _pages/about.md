@@ -31,44 +31,58 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 - *2024.10*: Our paper on the Multi-task Adaptive Resolution Network has been accepted by [JBHI](https://ieeexplore.ieee.org/abstract/document/10733987).
 - *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
 
-
+<!-- Publications Section -->
 # 📝 Publications
 
-ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
-<u><strong>Tong Wang</strong></u>, Hongming Xu\*.\\
-Submitted to 2025 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<u><strong>CVPR CCF-A TOP🔥🔥🔥)</strong></u>)
-(\*Corresponding Author)\
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer](https://ieeexplore.ieee.org/abstract/document/10733987) \\
-<u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
-
-IEEE Journal of Biomedical and Health Informatics (<strong>JBHI JCR-Q1 TOP🔥🔥🔥), IF=6.7</strong>)
-(\*Corresponding Author)//
-
-</div>
+<!-- Paper 1 -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Preprint 2024</div>
+      <img src="images/framework.jpg" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+    <strong>ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining</strong>  
+    <br><u><strong>Tong Wang</strong></u>, Hongming Xu<sup>*</sup>.  
+    <br>Submitted to 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition  
+    (<u><strong>CVPR CCF-A TOP🔥🔥🔥</strong></u>)  
+    <br>(*Corresponding Author)
+  </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/mk.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf) \\
-Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
-(\*Corresponding Author)//
-
-International Conference on Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI (CCF-B TOP🔥🔥🔥)</strong>)
-
+<!-- Paper 2 -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Preprint 2024</div>
+      <img src="images/mk.jpg" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+    <strong><a href="https://ieeexplore.ieee.org/abstract/document/10733987">Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer</a></strong>  
+    <br><u><strong>Tong Wang</strong></u>, Hongming Xu<sup>*</sup>. **Preprint 2024**  
+    <br>IEEE Journal of Biomedical and Health Informatics (<strong>JBHI JCR-Q1 TOP🔥🔥🔥, IF=6.7</strong>)  
+    <br>(*Corresponding Author)
+  </div>
 </div>
-</div>
 
+<!-- Paper 3 -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Preprint 2024</div>
+      <img src="images/mk.jpg" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+    <strong><a href="https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf">Double-tier Attention-based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer</a></strong>  
+    <br>Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu<sup>*</sup>. **Preprint 2024**  
+    <br>International Conference on Medical Image Computing and Computer-Assisted Intervention  
+    (<strong>MICCAI (CCF-B TOP🔥🔥🔥)</strong>)  
+    <br>(*Corresponding Author)
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.10* Outstanding Graduate Student of Dalian University of Technology
