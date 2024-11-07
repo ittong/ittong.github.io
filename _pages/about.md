@@ -27,13 +27,9 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2024.11*: Our paper on KG-based Retrieval-Augmented Generation is released on [arXiv](https://arxiv.org/pdf/2410.20724).
-- *2024.09*: Our paper [GeSS](https://arxiv.org/abs/2310.08677) on benchmarking OOD performance in geometric deep learning is accepted to NeurIPS 2024 D&B Track.
-- *2024.07*: Our paper on explainable geometric deep learning is released on [arXiv](https://arxiv.org/abs/2407.00849).
-- *2024.06*: Our paper on graph state space model (GSSC) is released on [arXiv](https://arxiv.org/abs/2406.05815).
-- *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and selected for oral presentation! See you in Vienna!
-- *2024.03*: Gave a talk at [A3D3](https://a3d3.ai/) institute HEP group on [HEPT](https://arxiv.org/abs/2402.12535).
-- *2024.02*: Our paper on efficient point transformer (HEPT) is released on [arXiv](https://arxiv.org/abs/2402.12535).
+- *2024.11*: Our paper on orthogonal decoupling alignment GAN for virtual immunohistochemistry staining is submitted to CVPR.
+- *2024.10*: Our paper on the Multi-task Adaptive Resolution Network has been accepted by [JBHI](https://ieeexplore.ieee.org/abstract/document/10733987).
+- *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
 
 
 # 📝 Publications
@@ -42,9 +38,9 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SubgraphRAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Simple is Effective: The Roles of Graphs and LLMs in KG-Based Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.20724) \\
-Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
-(\*Equal contribution)\\
+[Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer](https://ieeexplore.ieee.org/abstract/document/10733987) \\
+<u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
+(\*Corresponding Author)\\
 <a href="https://arxiv.org/pdf/2410.20724"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/SubgraphRAG"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 
@@ -59,8 +55,8 @@ Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 [What Can We Learn from State Space Models for Machine Learning on Graphs?](https://arxiv.org/pdf/2406.05815) \\
 Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 (\*Equal contribution, listed in alphabetical order)\\
-<a href="https://arxiv.org/pdf/2406.05815"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<!--<a href="https://arxiv.org/pdf/2406.05815"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>!-->
 
 </div>
 </div>
@@ -175,37 +171,3 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 - *2020.03* Tencent Innovation Award
 - *2020.01* Tencent Outstanding Employee (Top 10%)
 
-# 💬 Invited Talks
-- *2024.03*, A3D3 Institute HEP Group
-- *2022.11*, Inter-Experimental LHC Machine Learning Working Group, CERN
-- *2022.10*, Department of Physics, Purdue University
-- *2022.08*, AI Time
-- *2022.07*, Fast Machine Learning Lab
-
-
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Experience
-- *2023.01 - Present*, Georgia Tech, Research Assistant, Atlanta, USA
-- *2021.08 - 2022.12*, Purdue University, Research Assistant, West Lafayette, USA
-- *2019.07 - 2020.05*, Tencent, Machine Learning Engineer, Guangzhou, China
-- *2018.05 - 2018.08*, Tencent, Machine Learning Intern, Guangzhou, China
-
-<script type="text/javascript" src="assets/js/LastUpdateDate.js"></script>
-<a href='https://clustrmaps.com/site/1bgz9'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=a6iAb7ez3Wz6FmyA2Dk7WnttgXxsBmp_weXKt76zhWU&co=2d78ad&ct=ffffff' style="display: none;"/></a>
-
-# 📖 Academic Services
-- Conference Reviewer: ICML, ICLR, NeurIPS, AAAI, AISTATS, LOG, WWW
-- Journal Reviewer: TMLR, IEEE Transactions on Signal Processing
-
-# 🎮 Misc
-- *The Legend of Zelda: Breath of the Wild* and *The Witcher 3: Wild Hunt* are the best games ever. *Genshin Impact* is also awesome!
-- I'm a big fan of *Lego Technic*. I once combined them with RC cars to build a few cool Lego cars that could drift and climb!
-- I have 4.5k+ followers on [Zhihu](https://www.zhihu.com/people/miao-si-qi), a Quora-like platform in China.
-- I built my own PC and home automation system. I also liked to play with Jetson TX2 and Raspberry Pi.
