@@ -34,14 +34,22 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 
 # 📝 Publications
 
+ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
+<u><strong>Tong Wang</strong></u>, Hongming Xu\*.\\
+Submitted to 2025 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<u><strong>CVPR (CCF-A TOP🔥🔥🔥)</strong></u>)
+(\*Corresponding Author)\
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer](https://ieeexplore.ieee.org/abstract/document/10733987) \\
 <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
-(\*Corresponding Author)\\
-
+IEEE Journal of Biomedical and Health Informatics (<u><strong>JBHI (JCR-Q1 TOP🔥🔥🔥), IF=6.7</strong></u>)
+(\*Corresponding Author)\
 
 </div>
 </div>
@@ -53,7 +61,8 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 
 [Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf) \\
 Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
-(\*Corresponding Author)\\
+(\*Corresponding Author)\
+International Conference on Medical Image Computing and Computer Assisted Intervention (<u><strong>MICCAI (CCF-B TOP🔥🔥🔥)</strong></u>)
 <!--<a href="https://arxiv.org/pdf/2406.05815"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>!-->
 
