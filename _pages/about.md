@@ -35,7 +35,7 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SubgraphRAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer](https://ieeexplore.ieee.org/abstract/document/10733987) \\
