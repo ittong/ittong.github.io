@@ -105,7 +105,8 @@ Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024
 <!-- https://img.shields.io/badge/Video-grey?style=plastic&logo=airplayvideo&logoColor=white -->
 <!-- https://img.shields.io/badge/Slides-grey?&logo=GoogleSheets&logoColor=white -->
 
-
+</div>
+</div>
 
 <!-- - [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987), **Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022** ([codes](https://github.com/Graph-COM/GSAT)) -->
 
