@@ -33,9 +33,10 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 # 📝 Publications
 
 ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
-<u><strong>Tong Wang</strong></u>, Hongming Xu\*. //
+<u><strong>Tong Wang</strong></u>, Hongming Xu\*. \\
+(\* Corresponding Author)\\
+
 Submitted to 2025 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR, CCF-A, TOP🔥🔥🔥)</strong>)
-(\* Corresponding Author)//
 
 </div>
 </div>
@@ -45,10 +46,10 @@ Submitted to 2025 The IEEE/CVF Conference on Computer Vision and Pattern Recogni
 <div class='paper-box-text' markdown="1">
 
 [Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer](https://ieeexplore.ieee.org/abstract/document/10733987) \\
-<u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
+<u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024** \\
+(\* Corresponding Author)\\
 
-IEEE Journal of Biomedical and Health Informatics (<strong>JBHI, JCR-Q1, IF=6.7, TOP🔥🔥🔥</strong>)
-(\* Corresponding Author)//
+IEEE Journal of Biomedical and Health Informatics (<strong>JBHI, JCR-Q1, IF=6.7, TOP🔥🔥🔥</strong>)\\
 
 </div>
 </div>
@@ -60,7 +61,7 @@ IEEE Journal of Biomedical and Health Informatics (<strong>JBHI, JCR-Q1, IF=6.7,
 
 [Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf) \\
 Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
-(\* Corresponding Author)//
+(\* Corresponding Author)\\
 
 International Conference on Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI, CCF-B, TOP🔥🔥🔥)</strong>)
 
