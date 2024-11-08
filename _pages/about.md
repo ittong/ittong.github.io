@@ -32,6 +32,9 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 - *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
 # 📝 Publications
 
+</div>
+</div>
+
 ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
 <u><strong>Tong Wang</strong></u>, Hongming Xu\*. \\
 (\* Corresponding Author)\\
