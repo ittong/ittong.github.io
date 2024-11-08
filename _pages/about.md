@@ -27,7 +27,11 @@ Email: wangtong8868@gmail.com
 
 Tel: (+86) 18238670639  
 
-[![WeChat QR Code](/images/wechat.jpg)](/images/wechat.jpg)
+Wechat: EEtongyuan
+<a href="/images/wechat.jpg" target="_blank">
+    <img src="/images/wechat.jpg" alt="WeChat QR Code" width="50" height="50">
+</a>
+
 
 
 
