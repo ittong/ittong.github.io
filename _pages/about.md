@@ -42,9 +42,10 @@ Wechat: EEtongyuan
 - *2024.11*: Our paper on orthogonal decoupling alignment GAN for virtual immunohistochemistry staining is submitted to CVPR.
 - *2024.10*: Our paper on the Multi-task Adaptive Resolution Network has been accepted by [JBHI](https://ieeexplore.ieee.org/abstract/document/10733987).
 - *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
+
+
+
 # 📝 Publications
-
-
 
 ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
 <u><strong>Tong Wang</strong></u>, Hongming Xu\*. \\
