@@ -27,7 +27,7 @@ Email: wangtong8868@gmail.com
 
 Tel: (+86) 18238670639  
 
-[![WeChat QR Code](images/wechat.jpg)](images/wechat.jpg)
+[![WeChat QR Code](/images/wechat.jpg)](/images/wechat.jpg)
 
 
 
