@@ -32,17 +32,14 @@ My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surnam
 - *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
 # 📝 Publications
 
-</div>
-</div>
+
 
 ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
 <u><strong>Tong Wang</strong></u>, Hongming Xu\*. \\
 (\* Corresponding Author)\\
 
-Submitted to 2025 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR, CCF-A, TOP🔥🔥🔥)</strong>)
+Submitted to 2025 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR, CCF-A, TOP🔥🔥🔥</strong>)
 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
@@ -66,7 +63,7 @@ IEEE Journal of Biomedical and Health Informatics (<strong>JBHI, JCR-Q1, IF=6.7,
 Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
 (\* Corresponding Author)\\
 
-International Conference on Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI, CCF-B, TOP🔥🔥🔥)</strong>)
+International Conference on Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI, CCF-B, TOP🔥🔥🔥</strong>)
 
 </div>
 </div>
