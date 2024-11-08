@@ -48,14 +48,14 @@ Wechat: EEtongyuan
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Overview.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1"> -->
   
 ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
 <u><strong>Tong Wang</strong></u>, Hongming Xu\*. \\
 (\* Corresponding Author) \\
 Submitted to 2025 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR, CCF-A, TOP🔥🔥🔥</strong>)
 
-</div>
+
 </div>
 
 
