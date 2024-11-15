@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year graduate student majoring in the Biomedical Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/)’s Faculty of Medicine. I’m working on medical imaging AI (computational pathology) under the supervision of Associate Professor [Hongming Xu](https://xhm1014.github.io/index.html). Before coming to Dalian University of Technology, I studied Electronic Information Engineering at the School of Information Science and Engineering, [Yanshan University](https://www.ysu.edu.cn/). Currently, I am focused on computational pathology and deep learning, particularly in multiple instance learning, generative adversarial networks, and multimodal fusion, to advance scientific discovery. Additionally, I am also interested in domain adaptation, large multimodal models, etc.
 
-My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surname is 王 (Wang), pronounced as 王/wɑːŋ/. It’s also fine to call me Tong.
+My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surname is 王 (Wang), pronounced as 王/wɑːŋ/. It’s also fine to call me Tom.
 
 **<span style="color:red">I am seeking PhD positions for Fall 2025. If you know of any exciting opportunities, please feel free to contact me!</span>**
 
