@@ -64,7 +64,8 @@ IEEE Journal of Biomedical and Health Informatics (<strong>JBHI, JCR-Q1, IF=6.7,
 
 [Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf) \\
 Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
-(\* Corresponding Author) \\
+(\* Corresponding Author)\\
+Euqal contribution with first author\\
 International Conference on Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI, CCF-B, TOP🔥🔥🔥</strong>)
 
 </div>
