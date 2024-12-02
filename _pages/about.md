@@ -49,7 +49,7 @@ Wechat: EEtongyuan
 ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
 <u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. **Preprint 2024** \\
 (\* Corresponding Author) \\
-**<span style="color:red">Under Review</span>**
+**<span style="color:red">Under Review</span>** \\
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR, CCF-A, TOP🔥🔥🔥</strong>)
 
 </div>
