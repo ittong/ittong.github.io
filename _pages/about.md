@@ -36,7 +36,7 @@ Wechat: EEtongyuan
 
 # 🔥 News
 
-- *2024.11*: Our paper on the virtue IHC staining is submitted to <strong>CVPR conference</strong>.
+- *2024.11*: Our paper on the Virtue IHC Staining (image to image translation) is submitted to <strong>CVPR conference</strong>.
 - *2024.10*: Our paper on the Multi-task Adaptive Resolution Network has been accepted by [JBHI](https://ieeexplore.ieee.org/abstract/document/10733987).
 - *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
 
