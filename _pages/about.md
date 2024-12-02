@@ -34,11 +34,8 @@ Wechat: EEtongyuan
 **<span style="color:blue"><---click this QR Code.</span>**
 
 
-
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
 # 🔥 News
+
 - *2024.11*: Our paper on the virtue IHC staining is submitted to <strong>CVPR conference</strong>.
 - *2024.10*: Our paper on the Multi-task Adaptive Resolution Network has been accepted by [JBHI](https://ieeexplore.ieee.org/abstract/document/10733987).
 - *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
@@ -46,16 +43,6 @@ Wechat: EEtongyuan
 
 # 📝 Publications  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Overview.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. **Preprint 2024** \\
-(\* Corresponding Author) \\
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR, CCF-A, TOP🔥🔥🔥</strong>)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
