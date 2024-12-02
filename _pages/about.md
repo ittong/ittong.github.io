@@ -41,7 +41,7 @@ Wechat: EEtongyuan
 - *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
 
 
-# 📝 Publications
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
