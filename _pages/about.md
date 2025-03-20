@@ -36,18 +36,18 @@ Wechat: EEtongyuan
 
 # 🔥 News
 
-- *2024.11*: Our paper on the Virtue IHC Staining (image to image translation) has been accepted by <strong>CVPR2025 conference</strong>.
+- *2025.03*: Our paper on the Virtue IHC Staining (image to image translation) has been accepted by <strong>CVPR2025 conference</strong>.
 - *2024.10*: Our paper on the Multi-task Adaptive Resolution Network has been accepted by [JBHI](https://ieeexplore.ieee.org/abstract/document/10733987).
 - *2024.06*: Our paper on the Double-tier Attention-based Multi-label Learning Network has been accepted by [MICCAI](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf).
 
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/Overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
-<u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. **Preprint 2024** \\
+<u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. **Preprint 2025** \\
 (\* Corresponding Author) \\
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR, CCF-A, TOP🔥🔥🔥</strong>)
 
