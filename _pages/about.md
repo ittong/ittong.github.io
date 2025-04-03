@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year graduate student majoring in the Biomedical Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/)’s Faculty of Medicine. I’m working on medical imaging AI (computational pathology) under the supervision of Associate Professor [Hongming Xu](https://xhm1014.github.io/index.html). Before coming to Dalian University of Technology, I studied Electronic Information Engineering at the School of Information Science and Engineering, [Yanshan University](https://www.ysu.edu.cn/). Currently, I am focused on deep learning and computer vision, particularly in Multi-modal data analysis (e.g., image, gene), Generative AI (e.g., GANs), and Weakly supervised learning, to advance scientific discovery. Additionally, I am also interested in Diffusion model and Rubost AI (domain adaptation technich), etc.
+I am a third-year graduate student majoring in the Biomedical Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/)’s Faculty of Medicine. I’m working on medical imaging AI (computational pathology) under the supervision of Associate Professor [Hongming Xu](https://xhm1014.github.io/index.html). Before coming to Dalian University of Technology, I studied Electronic Information Engineering at the School of Information Science and Engineering, [Yanshan University](https://www.ysu.edu.cn/). Currently, I am focused on deep learning and computer vision, particularly in Multi-modal data analysis (e.g., image, gene), Generative AI (e.g., GANs), and Weakly supervised learning. Additionally, I am also interested in Diffusion models and Rubost AI (domain adaptation technich), etc.
 
 My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surname is 王 (Wang), pronounced as 王/wɑːŋ/. It’s also fine to call me Tom.
 
@@ -62,7 +62,8 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition  \\
 [Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer](https://ieeexplore.ieee.org/abstract/document/10733987) \\
 <u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. \\
 (\* Corresponding Author) \\
-IEEE Journal of Biomedical and Health Informatics (<strong>JBHI, JCR-Q1, IF=6.7, TOP🔥🔥</strong>)
+IEEE Journal of Biomedical and Health Informatics \\
+(<strong>JBHI, JCR-Q1, IF=6.7, TOP🔥🔥</strong>)
 
 </div>
 </div>
