@@ -21,7 +21,7 @@ I am a third-year graduate student majoring in the Biomedical Engineering at [Da
 
 My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surname is 王 (Wang), pronounced as 王/wɑːŋ/. It’s also fine to call me Tom.
 
-**<span style="color:red">I am seeking PhD or RA positions for Fall 2025. If you know of any exciting opportunities, please feel free to contact me!</span>**
+**<span style="color:red">I will be joining the University of North Carolina at Chapel Hill for Biomedical Engineering in Fall 2025 under the supervision of Dr. [Li Wang](https://scholar.google.com/citations?hl=en&user=xjzMf0cAAAAJ). My research focuses on MRI image super-resolution. If you are interested in collaboration, please feel free to contact me!</span>**
 
 Email: wangtong8868@gmail.com
 
@@ -43,39 +43,39 @@ Wechat: EEtongyuan
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/Overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/Overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining \\
-<u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. **Preprint 2025** \\
+<u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. \\
 (\* Corresponding Author) \\
-The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR, CCF-A, TOP🔥🔥🔥</strong>)
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition  \\
+(<strong>CVPR, CCF-A, TOP🔥🔥🔥</strong>)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer](https://ieeexplore.ieee.org/abstract/document/10733987) \\
-<u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. **Preprint 2024** \\
+<u><strong>Tong Wang</strong></u>, Mingkang Wang, Hongming Xu\*. \\
 (\* Corresponding Author) \\
-IEEE Journal of Biomedical and Health Informatics (<strong>JBHI, JCR-Q1, IF=6.7, TOP🔥🔥🔥</strong>)
+IEEE Journal of Biomedical and Health Informatics (<strong>JBHI, JCR-Q1, IF=6.7, TOP🔥🔥</strong>)
 
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/mk.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/mk.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer](https://papers.miccai.org/miccai-2024/paper/3214_paper.pdf) \\
-Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. **Preprint 2024**\\
-(\* Corresponding Author)\\
-Euqal contribution with first author\\
-International Conference on Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI, CCF-B, TOP🔥🔥🔥</strong>)
+Mingkang Wang, <u><strong>Tong Wang</strong></u>, Hongming Xu\*. \\
+(\* Corresponding Author) \\
+International Conference on Medical Image Computing and Computer Assisted Intervention (<strong>MICCAI, CCF-B, TOP🔥🔥</strong>)
 
 </div>
 </div>
