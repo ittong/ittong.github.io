@@ -21,7 +21,7 @@ I am a third-year graduate student majoring in the Biomedical Engineering at [Da
 
 My Chinese given name is 桐 (Tong), pronounced as 桐/tʊŋ/. My Chinese surname is 王 (Wang), pronounced as 王/wɑːŋ/. It’s also fine to call me Tom.
 
-**<span style="color:red">I will be joining the University of North Carolina at Chapel Hill for Biomedical Engineering in Fall 2025 under the supervision of Dr. [Li Wang](https://scholar.google.com/citations?hl=en&user=xjzMf0cAAAAJ). My research focuses on MRI image super-resolution. If you are interested in collaboration, please feel free to contact me!1</span>**
+**<span style="color:red">I will be joining the University of North Carolina at Chapel Hill for Biomedical Engineering in Fall 2025 under the supervision of Dr. [Li Wang](https://scholar.google.com/citations?hl=en&user=xjzMf0cAAAAJ). My research focuses on MRI image super-resolution. If you are interested in collaboration, please feel free to contact me!</span>**
 
 Email: wangtong8868@gmail.com
 
